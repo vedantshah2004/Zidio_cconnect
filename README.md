@@ -17,7 +17,11 @@ ZIDIOConnect is a dynamic web-based platform built using **Spring Boot** and **J
 - View applicants for each opportunity
 - Company profile (name, designation, website)
 
+- Admin login (secured)
+- Manage all users (students and recruiters)
+- View, edit, or delete job/internship postings
 
+- 
 ## 🛠️ Technologies Used
 
 - **Backend:** Spring Boot (Spring JDBC Template)
